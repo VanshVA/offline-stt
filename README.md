@@ -169,6 +169,9 @@ document.getElementById("stop").onclick = async () => {
 | `en`      | English  | `app/model`       |
 | `hi`      | Hindi    | `app/model-hindi` |
 
+--> For hindi use [http://localhost:7860/api/speech-to-text?lang=hi]
+--> For English use [http://localhost:7860/api/speech-to-text?lang=en]
+
 ## 🤝 Credits
 
 Vosk — Offline STT Engine
